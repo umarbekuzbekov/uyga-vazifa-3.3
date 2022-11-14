@@ -6,4 +6,4 @@ for(let i = basicNum; i <= californiyaNum; i++){
    obshiy **= i;
 }
 
-console.log(obshiy);
+console.log((5+6+7+8)**2);
